@@ -1,29 +1,41 @@
-name: phonami
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.73493
-title: phonami.grid
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: UA-53429779-1
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 1
+title: phonami.grid
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.1068208094220608
+  brandStrength: 0.9375
+  rhythmicContrast: 0.7828586455434561
   brandColors:
     - '#3e5bc7'
     - '#ffffff'
     - '#9cabe1'
     - '#000000'
     - '#0000ff'
-  brandStrength: 0.9375
   lightness: 0.05697018187493086
-  saturation: 0.10682080942206085
-  rhythmicContrast: 0.7828586455434561
 purpose: []
+favicon: null
+name: phonami
+typography_spectrum: 0.73493
