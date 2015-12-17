@@ -4,11 +4,18 @@
         <description><![CDATA[phonami.grid]]></description>
         <link>https://thegrid.ai/phonami/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 02:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 02:25:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/phonami/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Phonami Brand]]></title>
+            <description><![CDATA[<article><h1>Phonami Brand</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/145f6b46948d01241b16bedad943e0b848d3c0a8.png"></article>]]></description>
+            <link>https://thegrid.ai/phonami/phonami-brand/index.html</link>
+            <guid isPermaLink="false">087396f6-96e3-46f7-82b7-00ccb79f31f1</guid>
+            <pubDate>Thu, 17 Dec 2015 02:25:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Phonami Logo]]></title>
-            <description><![CDATA[<article><h1>Phonami Logo</h1><p>Phonami Logo </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9874f9952ed75b9403f8ef52490802e7f34cf7f7.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Phonami Logo</h1><p>Phonami Logo </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25112cd0f684da7b66aa1f85f96a0b00bf375667.png"></article>]]></description>
             <link>https://thegrid.ai/phonami/phonami-logo/index.html</link>
             <guid isPermaLink="false">928bb509-af1e-48c9-89b0-713a1cfd36ed</guid>
             <pubDate>Thu, 17 Dec 2015 02:20:11 GMT</pubDate>
