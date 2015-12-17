@@ -2,12 +2,13 @@ name: phonami
 favicon: null
 layout_spectrum: 0.34127
 typography_spectrum: 0.65282
+title: phonami.grid
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-53429779-1
   facebook: null
   twitter: null
 opengraph:
