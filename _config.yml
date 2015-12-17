@@ -1,7 +1,7 @@
 name: phonami
 favicon: null
-layout_spectrum: 0.2865284823346883
-typography_spectrum: 0.594155375380069
+layout_spectrum: 0.34127
+typography_spectrum: 0.65282
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#3e5bc7'
+    - '#ffffff'
+    - '#9cabe1'
+    - '#000000'
+    - '#0000ff'
   brandStrength: 0.9230522378347814
   lightness: 0.05697018187493086
   saturation: 0.10682080942206085
