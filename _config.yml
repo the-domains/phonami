@@ -1,7 +1,7 @@
 name: phonami
 favicon: null
-layout_spectrum: 0.34127
-typography_spectrum: 0.65282
+layout_spectrum: 1
+typography_spectrum: 0.73493
 title: phonami.grid
 cta:
   domain: null
